@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/challenge-social-dashboard/static/css/main.68d2156e.chunk.css",
+    "main.js": "/challenge-social-dashboard/static/js/main.5271c177.chunk.js",
+    "main.js.map": "/challenge-social-dashboard/static/js/main.5271c177.chunk.js.map",
+    "runtime-main.js": "/challenge-social-dashboard/static/js/runtime-main.9f098025.js",
+    "runtime-main.js.map": "/challenge-social-dashboard/static/js/runtime-main.9f098025.js.map",
+    "static/js/2.806a81fd.chunk.js": "/challenge-social-dashboard/static/js/2.806a81fd.chunk.js",
+    "static/js/2.806a81fd.chunk.js.map": "/challenge-social-dashboard/static/js/2.806a81fd.chunk.js.map",
+    "index.html": "/challenge-social-dashboard/index.html",
+    "precache-manifest.05d6603c83bd058503d38aa357d65041.js": "/challenge-social-dashboard/precache-manifest.05d6603c83bd058503d38aa357d65041.js",
+    "service-worker.js": "/challenge-social-dashboard/service-worker.js",
+    "static/css/main.68d2156e.chunk.css.map": "/challenge-social-dashboard/static/css/main.68d2156e.chunk.css.map",
+    "static/js/2.806a81fd.chunk.js.LICENSE.txt": "/challenge-social-dashboard/static/js/2.806a81fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f098025.js",
+    "static/js/2.806a81fd.chunk.js",
+    "static/css/main.68d2156e.chunk.css",
+    "static/js/main.5271c177.chunk.js"
+  ]
+}
