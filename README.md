@@ -20,8 +20,8 @@ _You need to have the following technologies installed to use this project._
 Any browser to open the project.
 
 * [Google Chrome](https://www.google.com/intl/es/chrome/)
-* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
-* [Opera](https://www.opera.com/es)
+* [Node.js - npm](https://nodejs.org/es/) - *JavaScript runtime*
+
 
 ### Installing 🔧
 
@@ -35,7 +35,16 @@ _To use this project you will need to clone this repository or download it to yo
 
 ## Use Project 👓
 
-_To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
+_Follow this steps to run the project, install dependencies necessaries._
+
+```ssh
+  $ npm install
+```
+
+```ssh
+  $ yarn start
+```
+
 
 <br>
 
@@ -46,6 +55,7 @@ _Technologies used in the project:_
 * [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
 * [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
 * [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animations and functionalities.
+* [React](https://es.reactjs.org/) - javascript library.
 
 <br>
 
