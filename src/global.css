@@ -2,18 +2,9 @@
 
 /*---------- Colors ----------*/
 :root{
---white: hsl(0, 0%, 100%);
---verypaleblue: hsl(225, 100%, 98%);
---lightgrayishblue: hsl(227, 47%, 96%);
---darkgrayishblue: hsl(228, 12%, 44%);
---hovercard: hsl(233, 13%, 87%);
---verydarkblue: hsl(230, 17%, 14%);
---toggle: linear-gradient(to right, hsl(228, 12%, 44%) 0%, hsl(228, 12%, 44%) 100%);
-
   /*---------- All ----------*/
 --green: hsl(163, 72%, 41%);
 --red: hsl(356, 69%, 56%);
-
 --facebook: hsl(208, 92%, 53%);
 --twitter: hsl(203, 89%, 53%);
 --instagram: linear-gradient(to right, hsl(37, 97%, 70%) 0%, hsl(329, 70%, 58%) 100%);
@@ -42,39 +33,6 @@ body.dark{
   --toggle: linear-gradient(to right, hsl(210, 78%, 56%) 0%, hsl(146, 68%, 55%) 100%);
 }
 
-
-/* Tamaño del scroll */
-.container::-webkit-scrollbar {
-  width: 8px;
-}
-
- /* Estilos barra (thumb) de scroll */
-.container::-webkit-scrollbar-thumb {
-  background: #ccc;
-  border-radius: 4px;
-}
-
-.container::-webkit-scrollbar-thumb:active {
-  background-color: #999999;
-}
-
-.container::-webkit-scrollbar-thumb:hover {
-  background: #b3b3b3;
-  box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
-}
-
- /* Estilos track de scroll */
-.container::-webkit-scrollbar-track {
-  background: #e1e1e1;
-  border-radius: 4px;
-}
-
-.container::-webkit-scrollbar-track:hover, 
-.container::-webkit-scrollbar-track:active {
-  background: #d4d4d4;
-}
-
-
 body{
   margin: 0;
   font-family: 'Inter', sans-serif;
@@ -85,11 +43,6 @@ body{
 .wrapper{
   padding: 0 25px;
 }
-
-.negative{
-  color: var(--red);
-}
-
 
 .grid{
   display: grid;
@@ -160,5 +113,4 @@ body{
     max-width: 1200px;
     margin: auto;
   }  
-  
 }
