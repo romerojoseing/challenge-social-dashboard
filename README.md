@@ -1,68 +1,65 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Frontend Mentor Callenge: Social Media Dashboard
 
-## Available Scripts
+_This is a challenge from website Frontend Mentor, specialized in frontend develop, is a dashboard to monitor the metrics in social networks of your account._
 
-In the project directory, you can run:
+## [Try the live demo](https://romerojoseing.github.io/social-dashboard/) ⚡
+![Thumbnail](https://github.com/romerojoseing/social-dashboard/blob/master/design/desktop-preview.jpg?raw=true)
 
-### `yarn start`
+<br>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Getting Started 🚀
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+_These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system._
 
-### `yarn test`
+See **Requirements** to know the minimum standards to use the project.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Requirements 📋
 
-### `yarn build`
+_You need to have the following technologies installed to use this project._
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Any browser to open the project.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* [Google Chrome](https://www.google.com/intl/es/chrome/)
+* [Mozilla Firefox](https://www.mozilla.org/es-ES/firefox/new/)
+* [Opera](https://www.opera.com/es)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installing 🔧
 
-### `yarn eject`
+_To use this project you will need to clone this repository or download it to your computer. If you choose to download it directly in the upper right part of the repository you will have the option, if it is not your case you can clone it using the following command._
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```ssh
+  $ git clone https://github.com/romerojoseing/social-dashboard.git
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<br>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Use Project 👓
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+_To use this project after having it cloned or downloaded, we simply have to go to the project folder and open the file **index.html** with this we would have it working perfectly._
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Built With 🛠️
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+_Technologies used in the project:_
 
-### Code Splitting
+* [HTML 5](https://es.wikipedia.org/wiki/HTML) - Layout and web structure.
+* [CSS 3](https://es.wikipedia.org/wiki/Hoja_de_estilos_en_cascada) - Style design.
+* [JavaScript](https://es.wikipedia.org/wiki/JavaScript) - Animations and functionalities.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+<br>
 
-### Analyzing the Bundle Size
+## Author ✒️
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+_If you like what I do, visit my website and share my content, you can also follow me on my networks to be aware of new publications and interesting projects that I will be developing._
 
-### Making a Progressive Web App
+Designed with 💖 - by [Romero José](https://romerojose.com/)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+### Social networks
 
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* **GitHub** - *Repositories of my latest projects* - [romerojoseing](https://github.com/romerojoseing)
+* **CodePen** - *Interesting mini projects and tests* - [romerojoseing](https://codepen.io/romerojoseing)
+* **LinkedIn** - *Professional developer profile* - [romerojoseing](https://www.linkedin.com/in/romerojoseing/)
+* **Instagram** - *Documenting my journey* - [romerojoseing](https://www.instagram.com/romerojoseing/)
+* **Facebook** - *Publications and promotional content* - [romerojoseing](https://www.facebook.com/romerojoseing)
+* **Twitter** - *Random comments and more* - [romerojoseing](https://twitter.com/romerojoseing)

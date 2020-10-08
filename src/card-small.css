@@ -1,0 +1,54 @@
+.card-small{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-row-gap: 1em;
+  border-radius: 6px;
+  overflow: hidden;
+  background-color: var(--lightgrayishblue);
+  padding: 1.5em;
+  cursor: pointer;
+}
+
+.card-small:hover{
+  background-color: var(--hovercard);  
+}
+
+.card-small p{
+  margin: 0;
+}
+
+.card-small-views{
+  color: var(--darkgrayishblue);
+  font-size: .8em;
+  font-weight: bold;
+}
+
+.card-small-icon{
+  text-align: right;
+}
+
+.card-small-number{
+  font-weight: bold;
+  font-size: 2em;
+  line-height: .9em;
+}
+
+.card-small-percentage{
+  text-align: right;
+  color: var(--green);
+  font-weight: bold;
+  font-size: .75em;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+.card-small-percentage span{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-small-percentage span img{
+ margin-right: 5px; 
+}
